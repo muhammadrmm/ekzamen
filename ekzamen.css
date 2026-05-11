@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    font-family: sans-serif;
 }
 .src{
     width: 100%;
@@ -32,4 +33,29 @@
 .voyti{
     padding-right: 50px;
     margin-top: 7px;
+}
+.zap{
+    color: white;
+    margin-top: 100px;
+    margin-left: 100px;
+    font-size: 40px;
+}
+.nabor{
+    color: white;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+.box2{
+    width: 140px;
+    height: 60px;
+    background-color: #016CA8;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+.pod{
+    color: white;
+    font-size: 15px;
+    padding: 20px;
 }
