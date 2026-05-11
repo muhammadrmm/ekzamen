@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+.src{
+    width: 100%;
+    height: 600px;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("./uae-4-2048x1367\ 2.png");
+}
+.src1{
+    margin-left: 140px;
+    position: relative;
+    top: 30px;
+}
+.kto{
+    display: flex;
+    color: white;
+    margin-left: 600px;
+    gap: 20px;
+    margin-top: 5px;
+}
+.box{
+    width: 140px;
+    height: 40px;
+    background-color: #07AF91;
+    border-radius: 10px;
+    display: flex;
+    justify-content: end;
+    margin-left: 270px;
+    margin-top: -10px;
+
+}
+.voyti{
+    padding-right: 50px;
+    margin-top: 7px;
+}
